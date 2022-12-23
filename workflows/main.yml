@@ -1,6 +1,6 @@
 #  Name of workflow
 name: Lint workflow
-# Trigger workflow on all pull requests
+# Trigger workflow on all pull requests and see the flow
 on:
      pull_request:
           branches:
